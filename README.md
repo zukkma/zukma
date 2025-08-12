@@ -1,5 +1,3 @@
-@zukma on dc
-
 # gmod
 
 nova | dev
