@@ -6,10 +6,10 @@ nova | dev
 
 ## code (since 2024)
 
-lua
-python
+* lua
+* python
 
 ## kpop
 
-aespa
-new jeans
+* aespa
+* new jeans
